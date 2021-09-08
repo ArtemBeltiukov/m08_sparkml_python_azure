@@ -1,3 +1,4 @@
+GitHub: https://github.com/ArtemBeltiukov/m08_sparkml_python_azure
 * Deploy infrastructure with terraform
 ```
 terraform init
