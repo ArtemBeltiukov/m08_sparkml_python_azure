@@ -1,8 +1,6 @@
 terraform {
   backend "azurerm" {
-	storage_account_name = "accmsix"
-    container_name       = "m08"
-    access_key           = "t4bYsoR7wYg3FspSSgryjNCPX84i5MqNrfbTE6cSmtWNnLU2QmlikdmDbhCUyZIVPEaUmaZeLy/jmFuZkn/58w=="
+
     
   }
 }
